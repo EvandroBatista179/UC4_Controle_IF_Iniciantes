@@ -1,0 +1,17 @@
+UC4 - ESTRUTURA DE CONTROLE IF E IF/ELSE
+VERSÃO SIMPLES PARA INICIANTES
+
+15 atividades e 5 desafios extras, conforme o PDF do professor.
+Cada pasta contém somente um arquivo Python .py.
+
+Para executar: python atividade_01.py (ou o nome do arquivo desejado).
+
+Esta versão prioriza os conceitos iniciais: input, int, float, if, else, and, or, not e print.
+Não inclui validação avançada de entrada: digite números válidos conforme solicitado.
+Valores monetários utilizam float exclusivamente por simplicidade didática.
+
+Observações de fidelidade ao enunciado:
+- Atividade 05: adiciona o bônus ao dinheiro guardado, sem descontar as despesas.
+- Atividade 06: os 2 pontos são somados à nota, mesmo que ela ultrapasse 10.
+- Atividade 10 e Desafio 02: o desconto é aplicado exatamente conforme a regra, sem limite inferior de R$ 0.
+- Atividade 14: quando a condição não é atendida, o custo permanece zero.
